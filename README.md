@@ -1,0 +1,2 @@
+# NIMTOOK
+Repozytorium stworzone na potrzeby zajęć "NARZĘDZIA I METODY TESTOWANIA ORAZ OPTYMALIZACJI KODU"

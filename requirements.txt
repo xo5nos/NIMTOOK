@@ -1,4 +1,0 @@
-fastapi
-httpx2
-pytest
-uvicorn
